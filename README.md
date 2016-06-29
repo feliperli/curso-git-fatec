@@ -5,6 +5,9 @@
 
 - Minicurso de Git na Fatec Sorocaba(28 e 29 de junho)
 
+##Estado Civil
+- Solteiro
+
 ##Experiêcia
 - Maratonista do InterFatecs
 
@@ -29,6 +32,8 @@
 ##Ultimos Lidos:
 - Machine Learning in Action - Peter Harington
 
+
 - Linguagem C - Luis Damas
+
 
 - Sistemas Digitais - Tocchi

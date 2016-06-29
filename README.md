@@ -4,6 +4,7 @@
 - Minicurso de Git na Fatec Sorocaba(28 e 29 de junho)
 
 ##Experiêcia
-
+- Maratonista do InterFatecs
+- Aulas particulares de programação em C
 
 ##Skill

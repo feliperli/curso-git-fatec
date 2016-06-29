@@ -27,3 +27,6 @@
 - Não peguei nenhuma DP
 
 ##Ultimos Lidos:
+- Machine Learning in Action - Peter Harington
+- Linguagem C - Luis Damas
+- Sistemas Digitais - Tocchi

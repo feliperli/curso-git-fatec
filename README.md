@@ -1,9 +1,12 @@
-# Felipe Richter
+# Febipe Richter
 ##Formação
 - Cursando Análise e Desenvolvimento de Sistemas pela Fatec Sorocaba (Terceiro Semestre, Conclusão em 12/2017). Período Diurno
 
 
 - Minicurso de Git na Fatec Sorocaba(28 e 29 de junho)
+
+##Estado Civil
+- Solteiro
 
 ##Experiêcia
 - Maratonista do InterFatecs
@@ -29,8 +32,14 @@
 ##Ultimos Lidos:
 - Machine Learning in Action - Peter Harington
 
+
 - Linguagem C - Luis Damas
 
+<<<<<<< HEAD
 - Sistemas Digitais - Tocchi
 
 - Harry Potter (todos)
+=======
+
+- Sistemas Digitais - Tocchi
+>>>>>>> da05a908741d82244fe6ee7f132ac84389a16ad8
